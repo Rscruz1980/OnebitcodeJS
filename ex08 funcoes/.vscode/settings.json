@@ -1,0 +1,24 @@
+{
+    "cSpell.words": [
+        "acelerar",
+        "Desacelerar",
+        "deseja",
+        "Digite",
+        "Estamos",
+        "fazer",
+        "opcao",
+        "opcaoescolhida",
+        "podemos",
+        "Sair",
+        "velocidade",
+        "você"
+    ],
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:ex08 funções}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
+}
